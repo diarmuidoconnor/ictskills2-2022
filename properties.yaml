@@ -7,10 +7,10 @@ ignorepin      : 2125
 auth           : 3
 ignore         :
   # - topic00
-  # - topic01
-  # - topic02
-  # - topic03
-  # - topic04
-  # - topic05
-  # - topic06
-  - topic07
+   - topic01
+   - topic02
+   - topic03
+   - topic04
+   - topic05
+   - topic06
+   - topic07
