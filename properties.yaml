@@ -1,0 +1,16 @@
+slack          : https://wit-hdip-comp-sci-19.slack.com/archives/C013ZFUBQR5
+moodle         : https://moodle.wit.ie/course/view.php?id=132121&section=8
+youtube        : https://www.youtube.com/playlist?list=PLN09doY9z8oaDi3R_ue-Ro1odgQZBI_1V
+parent         : course/wit-hdip-comp-sci-2019.netlify.app
+credits        : Diarmuid O' Connor, WIT
+ignorepin      : 2125
+auth           : 3
+ignore         :
+  # - topic00
+  # - topic01
+  # - topic02
+  # - topic03
+  # - topic04
+  # - topic05
+  # - topic06
+  - topic07
