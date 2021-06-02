@@ -1,3 +1,3 @@
 # React Component model.
  
-A look at React's data flow patterns and lifecycle hooks.
+A deeper look at React's component model, including hooks and data flow patterns.
