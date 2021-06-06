@@ -1,3 +1,3 @@
-#  Navigation & Designing with React.
+# Component Lifecycle. Navigation
  
-Adding navigation to a React app. Explain the Thinking in React design process.
+Component lifecycle Hooks. Routing configuration. Routing-related props.

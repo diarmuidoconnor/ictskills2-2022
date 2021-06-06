@@ -1,3 +1,3 @@
-# Designing React Apps.
+# Component hooks. React Router.
  
-Explain the design and development process promoted by the React designers - Thinking in React.
+Component lifecycle Hooks. Routing configuration. Routing-related props.
