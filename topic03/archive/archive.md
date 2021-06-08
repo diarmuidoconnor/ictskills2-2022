@@ -1,3 +1,3 @@
 Resources.
 
-The routing/navigation samples.
+The component lifecycle and routing/navigation samples.
