@@ -1,3 +1,3 @@
-# React Design and Routing (Contd).
+# Thinking in React.
 
-Some more details on routing techniques, design patterns and hooks.
+A methodology for designing React apps.

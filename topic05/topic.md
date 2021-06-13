@@ -1,3 +1,3 @@
-#  React: Design and Routing (Contd.)
+#  React App Design
   
-Explore some more navigation features available in React Router. Continue to expand the design options available to improve reusability and structure
+Explore the Thinking in React methodology.
