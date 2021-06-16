@@ -1,3 +1,3 @@
-# Assessment.
+# State Management & Protected Routes.
  
-Module's assessment requirements.
+Patterns and techniques for managing app state. Declaring private navigation routes.
