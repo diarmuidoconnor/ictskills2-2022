@@ -1,1 +1,1 @@
-Project Guidelines (Recording)
+Lecture recording
