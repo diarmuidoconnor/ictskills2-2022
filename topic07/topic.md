@@ -1,3 +1,3 @@
-# Assessment - trial.
+# Assessment.
  
 Module's assessment requirements.

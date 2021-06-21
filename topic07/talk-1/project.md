@@ -1,3 +1,3 @@
-# Project Guidelines.
+# Assessment Guidelines.
  
-Guidelines for the React app project.
+Guidelines for the React app assignment.
